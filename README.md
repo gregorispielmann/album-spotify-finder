@@ -2,7 +2,7 @@
 
 ### Live Demo
 
-You can view the demo on [https://album-finder-spotify.netlify.com/](Live Demo).
+You can view the demo on [Live Demo](https://album-finder-spotify.netlify.com/).
 
 ### Screenshots
 
