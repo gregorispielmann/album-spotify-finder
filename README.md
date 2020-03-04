@@ -11,6 +11,16 @@ You can view the demo on [Live Demo](https://album-finder-spotify.netlify.com/).
   <img src="./screenshots/screenshot1.png" width="45%"></img>
 </div>
 
+### Techs
+
+React.js
+styled-components
+express
+CSS grid
+react-icons
+react-spinners
+axios
+
 ### How to run?
 
 Clone this repo and choose a mode below to run!
