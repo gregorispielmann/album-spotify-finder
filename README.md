@@ -6,9 +6,9 @@ You can view the demo on [Live Demo](https://album-finder-spotify.netlify.com/).
 
 ### Screenshots
 
-<div style="display: flex; width: 100%;">
-  <img src="./screenshots/screenshot0.png" style="width: 50%"></img>
-  <img src="./screenshots/screenshot1.png" style="width: 50%"></img>
+<div style="display: flex; flex-direction: row; width: 100%;">
+  <img src="./screenshots/screenshot0.png" style="width: 30%"></img>
+  <img src="./screenshots/screenshot1.png" style="width: 30%"></img>
 </div>
 
 ### How to run?
