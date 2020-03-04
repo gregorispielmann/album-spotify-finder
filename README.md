@@ -13,17 +13,14 @@ You can view the demo on [Live Demo](https://album-finder-spotify.netlify.com/).
 
 ### Techs
 
-| React.js          | https://reactjs.org/                  |
+| Tech Name         | Website                               |
 | ----------------- | ------------------------------------- |
+| React.js          | https://reactjs.org/                  |
 | styled-components | https://styled-components.com/        |
 | express           | https://expressjs.com/                |
-| --                | --                                    |
 | react-icons       | https://react-icons.netlify.com/#/    |
-| --                | --                                    |
 | react-spinners    | http://www.davidhu.io/react-spinners/ |
-| --                | --                                    |
 | axios             | https://github.com/axios/axios        |
-| --                | --                                    |
 
 ### How to run?
 
